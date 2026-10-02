@@ -14,6 +14,10 @@ import { transcreverAudio } from "../lib/transcrever";
 // build: depois de preenchê-las, reinicie o `eve dev` ou faça um novo deploy.
 const apiKey = process.env.ZERNIO_API_KEY;
 const webhookSecret = process.env.ZERNIO_WEBHOOK_SECRET;
+// O webhook do Zernio entrega mensagens de todas as contas conectadas (inclusive
+// outros números de WhatsApp de outros projetos). Com ZERNIO_ACCOUNT_ID, este
+// agente atende só a conta desse número e ignora as demais.
+const accountId = process.env.ZERNIO_ACCOUNT_ID;
 
 // Enviada assim que chega um áudio, antes da transcrição (que leva alguns segundos).
 const OUVINDO_AUDIO = [
@@ -72,6 +76,8 @@ function createWhatsAppChannel(apiKey: string, webhookSecret: string) {
     const raw = message.raw as Partial<ZernioRawMessage> | undefined;
     if (raw?.platform !== "whatsapp") return;
     if (thread.id.includes(":comment:")) return;
+    // thread.id tem o formato "zernio:{accountId}:{conversationId}".
+    if (accountId && thread.id.split(":")[1] !== accountId) return;
 
     const text = message.text?.trim();
     const anexos = raw.attachments ?? [];
