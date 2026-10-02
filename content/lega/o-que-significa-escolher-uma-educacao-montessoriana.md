@@ -1,0 +1,19 @@
+# O que significa escolher uma Educação Montessoriana?
+
+Por considerar as crianças a esperança da humanidade, Maria Montessori se dedicou a elaborar um método que oportunizasse a liberdade desde os primeiros dias, meses, anos de desenvolvimento para que as crianças se tornassem adultos com a capacidade de enfrentar os problemas da vida.
+
+O objetivo educacional é a autonomia em todos os aspectos: intelectual, formando um pensador crítico; moral, através da reciprocidade e do respeito mútuo; social, ao trabalhar com os pais e a comunidade escolar, e emocional, na segurança proporcionada pelos limites, pelo respeito e pelo afeto com uma educação da vontade e da autossuficiência.
+
+A proposta de Maria Montessori constitui-se em um modelo educacional e não apenas um método aplicado ao ensino, pois um método implica na organização de atividades concretas para obter um resultado, para que possa ser aplicado a praticamente qualquer atividade organizada. No entanto, um modelo educacional carece de uma conceitualização filosófica de aprendizagem, de ensino, da relação educador-criança, o objetivo dessa dialogicidade ensino-aprendizagem, bem como, o desenvolvimento de ferramentas e materiais específicos e educacionais baseados nessa concepção. Todo esse conjunto de ideias e diretrizes desenvolvidas por Maria Montessori pode ser chamado como Filosofia Montessori.
+
+Fundamentalmente a filosofia montessoriana orienta a observação e registro do comportamento da criança, em prol da apreensão dos seus processos de aprendizagem, verificando quais suas necessidades e possibilidades de desenvolvimento, considerando ainda, suas aptidões e desejos particulares com intuito de promover, além de conhecimento científico e desenvolvimento cognitivo, ajuda à vida, em sua multiplicidade e complexidade.
+
+A observação científica da infância acarretou o despertar para uma nova consciência que nos apresenta um modelo educacional baseado no desenvolvimento infantil. Caracterizado por enfatizar a atividade dirigida pela criança com a observação clínica e sistematizada do professor e que considera que o desenvolvimento acontece de dentro para fora (MONTESSORI, 1936). Sendo a motivação e a postura investigativa ilimitada das crianças pequenas, um desejo interno de dominar o ambiente, aperfeiçoar-se e compreender o mundo.
+
+De acordo com Montessori (1936), nesta nova concepção, que pleiteia o ambiente preparado, o adulto educador tem a conduta de responsável por oportunizar a aprendizagem pela organização do material e preparo do ambiente, mas, fora do tempo de aula e da vista das crianças.
+
+A intenção é, primeiramente, liberar o potencial de cada criança de se desenvolver em um ambiente estruturado, adaptando-o à aprendizagem da criança, ao seu nível de desenvolvimento e Período Sensível. Isto posto, faz parte do componente curricular onde se pode colocar em prática tarefas como vestir-se, organizar e limpar o ambiente das aulas, deslocar-se e transportar objetos, alimentar-se – desde a escolha, possível preparo, mesa posta, comer com autonomia e limpar e organizar posteriormente – sendo imprescindível um ambiente planejado e organizado que possibilite autonomia.
+
+Esse desenvolvimento não acontece instantaneamente só pelo contato com o método, material e educador, o trabalho é paulatino e verificado na constância e na repetição, até que se chegue a pretendida perfeição dos movimentos por parte da criança, que concluindo esse trabalho, que é inicial, desloca-se a um novo nível, mais avançado de autoaperfeiçoamento.
+
+Nessa conjuntura, o autoaperfeiçoamento torna-se a razão de ser, de fazer, o objetivo pleiteado. Não sendo necessária a premiação ou o castigo, pois as crianças sentem-se recompensadas quando alcançam o sucesso de sua atividade, ou mesmo no decurso. Pois a liberdade, a independência e o manuseio dos materiais promovem a educação externa e a interna.

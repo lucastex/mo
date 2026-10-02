@@ -1,0 +1,70 @@
+# Deploy de produção no Vercel a cada push na main.
+#
+# Secrets necessários no repositório (Settings → Secrets and variables → Actions):
+#   VERCEL_TOKEN       token criado em https://vercel.com/account/tokens
+#   VERCEL_ORG_ID      "orgId" de .vercel/project.json (após `pnpm exec eve link`)
+#   VERCEL_PROJECT_ID  "projectId" de .vercel/project.json
+#
+# As variáveis do agente (OPENAI_API_KEY, ZERNIO_API_KEY, ZERNIO_WEBHOOK_SECRET)
+# ficam no projeto do Vercel, não aqui: o build roda no Vercel.
+
+name: Deploy (Vercel)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Um deploy de produção por vez; um push novo espera o anterior terminar.
+concurrency:
+  group: vercel-production
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+env:
+  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+  EVE_TELEMETRY_DISABLED: "1"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: production
+      url: ${{ steps.deploy.outputs.url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4 # versão vem de "packageManager" no package.json
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+
+      - name: Instalar dependências
+        run: pnpm install --frozen-lockfile
+
+      # Regenera o índice de busca a partir de content/. O build do Vercel roda
+      # `eve build` direto, então o índice precisa ir pronto no upload.
+      - name: Gerar índice da base de conhecimento
+        run: pnpm knowledge
+
+      # Valida o agente antes de subir: erro aqui não chega à produção.
+      - name: Validar build do agente
+        run: pnpm exec eve build
+
+      - name: Validar build da Web Chat
+        run: pnpm build:web
+
+      - name: Deploy de produção
+        id: deploy
+        run: |
+          url=$(pnpm dlx vercel@62 deploy --prod --yes \
+            --token="${{ secrets.VERCEL_TOKEN }}" \
+            --build-env ENABLE_EXPERIMENTAL_COREPACK=1)
+          echo "url=$url" >> "$GITHUB_OUTPUT"
+          echo "Produção: $url" >> "$GITHUB_STEP_SUMMARY"

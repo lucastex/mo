@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 106, "column": 0}, "map": {"version":3,"sources":["file:///Users/lucastex/dev/clover/coach/larmontessori/apps/web/proxy.ts"],"sourcesContent":["import type { NextRequest } from \"next/server\";\nimport { NextResponse } from \"next/server\";\n\nexport function proxy(request: NextRequest) {\n  const routerHost = process.env.VERCEL_URL;\n  const forwardedHost = request.headers.get(\"x-forwarded-host\");\n  if (process.env.__VERCEL_DEV_RUNNING === \"1\" && routerHost && forwardedHost !== routerHost) {\n    const target = request.nextUrl.clone();\n    target.protocol = \"http:\";\n    target.host = routerHost;\n    return NextResponse.redirect(target);\n  }\n  return NextResponse.next();\n}\n"],"names":["proxy","request","routerHost","process","env","VERCEL_URL","forwardedHost","headers","get","__VERCEL_DEV_RUNNING","target","nextUrl","clone","protocol","host","redirect","next"],"mappings":";;;;AACA;;AAEO,SAASA,MAAMC,OAAoB;IACxC,MAAMC,aAAaC,QAAQC,GAAG,CAACC,UAAU;IACzC,MAAMC,gBAAgBL,QAAQM,OAAO,CAACC,GAAG,CAAC;IAC1C,IAAIL,QAAQC,GAAG,CAACK,oBAAoB,KAAK,OAAOP,cAAcI,kBAAkBJ,YAAY;QAC1F,MAAMQ,SAAST,QAAQU,OAAO,CAACC,KAAK;QACpCF,OAAOG,QAAQ,GAAG;QAClBH,OAAOI,IAAI,GAAGZ;QACd,OAAO,+SAAY,CAACa,QAAQ,CAACL;IAC/B;IACA,OAAO,+SAAY,CAACM,IAAI;AAC1B"}}]
+}

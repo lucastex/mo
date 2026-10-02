@@ -1,0 +1,29 @@
+# Passeios à Natureza – Amando e Conhecendo o Universo
+
+Você leva suas crianças a parques? Se sim, parabéns! Se não, tire um tempinho para fazer isso com alguma frequência. O contato com a natureza é fundamental para o desenvolvimento do seu filho. Parques, praças e bosques, assim como praias, oferecem ambientes com muitos estímulos sensoriais para os pequenos, mas de forma suave, sem poluição visual ou sonora.
+
+O contato com a natureza oferece uma quantidade muito grande de possibilidades e assim desperta a curiosidade a um ponto que a casa dificilmente conseguiria. Um dia no parque pode plantar sementes de curiosidade e questões para uma semana inteira, dependendo da idade da criança (isso é especialmente verdadeiro para a faixa etária de três a seis anos). Esteja preparado para responder a estas questões e voltar à natureza em seguida.
+
+Quando a criança é muito pequena, é bom ir ao parque de manhã, quando o sol é fraco e ela está bem desperta, assim pode-se sentar na grama, e ela pode brincar um pouquinho com o entorno, mesmo que não possa se aventurar muito longe. Ficar perto de uma árvore é uma boa ideia, já que só um pequeno espaço incluindo a árvore oferece sombra, raizes, tronco (e sua casca), folhas, terra, grama e quem sabe frutos ou flores. Insetos estarão por perto também, não tema todos eles. Pequenos besouros, joaninhas, grilos ou gafanhotos, borboletas e bicos-pau não são arriscados e maravilham qualquer pequeno explorador.
+
+É claro que é bom evitar abelhas (se as cores que vocês vestirem forem suaves e não houver açúcar nas comidas e bebidas, elas não vão aparecer) e se você não conhecer quais aranhas picam e quais não, espante todas. Mas pare por aí, outros bichinhos são mais uma fonte de conhecimento do mundo do que uma ameaça.
+
+Montessori dizia que não é suficiente amar a criança. É necessário antes conhecer e amar o universo. Ame o universo. Procure se maravilhar com a natureza, assim como seu filho, adote de novo o olhar do explorador, que acha incrível uma folha avermelhada e se surpreende com um pássaro colorido. Mostre essas coisas a ele, não como um professor, mas como alguém que também acha tudo aquilo belo e surpreendente.
+
+Permita que a criança passeie, que pare onde mais lhe interessar, que pegue coisas, que se suje um pouco (ou muito, a depender da sua tolerância), que fique muito tempo parada olhando algo que você sequer percebeu que existia ou que simplesmente não olhe para algo que fascinou muito a você. A maneira de pensar e de ver deles são muito diferentes da sua.
+
+Mostre ao seu filho, nas próximas idas ao parque, como a natureza funciona. De forma descontraida e informal, mostre os ninhos dos passarinhos e explique que são as casas deles, mostre girinos e explique que são os filhotes do sapo, mostre as abelhas e as borboletas nas flores e explique que estão se alimentando e fazendo mel. Com o tempo, explicar a polinização pode ser muito interessante. Sim, você vai ter que estudar muita coisa de novo, mas não vale a pena? Para maravilhar sua criança com a natureza?
+
+Algumas crianças, especialmente as mais velhas, podem recusar-se a ir ao parque ou ao bosque, dizendo que preferem ir ao shopping, ao parque-de-diversões ou à casa de um amiguinho. Embora nenhum desses passeios seja reprovável em si (não recomendamos o shopping para crianças, é excesso de estímulo), é importante que os pequenos saibam admirar o silêncio, perceber um canto de passarinho e o zumbido de uma mosca ou uma abelha. Só por meio do contato com a natureza é possível amá-la, e só por meio do amor a ela é possível respeitá-la – assim, se você quiser que seu filho saiba preservar o ambiente em que vive, mais um motivo para dar a ele oportunidades de curtir esse mesmo ambiente.
+
+As maravilhas e as surpresas da praia são outras, e tão belas quanto as do parque. Quando der, leve seu filho, mesmo muito pequeno, ao mar. Brinquem nas primeiras ondas, molhem-se, façam castelinhos de areia e peguem caranguejinhos e conchas. Tudo isso ensina. Com tudo isso se aprende.
+
+A textura da areia e as cores dela, o fato de nem sempre o castelo ficar de pé, a dificuldade de pegar um animalzinho que se mexe e o material de que é feito uma concha (assim como o brilho da parte de dentro dela) são aprendizados para a criança pequena. Pode ser que surja uma coleção de conchas, neste caso, tente descobrir os nomes delas e ensine-os ao seu filho. Crianças adoram categorizar coisas e estão em uma excelente idade para adquirir vocabulário, inclusive o científico, que não tem nada de difícil, e assim parece para nós por puro preconceito. Levar a criança um pouquinho mais velha (trës ou quatro anos pelo menos) até aquários pode ser fantástico também.
+
+O terceiro fascínio natural a que podemos e devemos expor a criança é o céu. Se houver a possibilidade de uma viagem curta até um local com pouca luminosidade (casas de familiares no interior, ou uma praia menos popular, por exemplo), mostre as estrelas, a Via-Láctea, identifique constelações e dê os nomes e as histórias delas aos pequenos. Amem e conheçam o universo.
+
+Viver no Brasil tem muitas vantagens neste ponto. Nosso país é privilegiado naturalmente e oferece-nos uma abundância inimaginável de biodiversidade. Além disso, nós temos um escritor infantil que mostrou de forma belíssima as belezas e a perfeição da natureza em seus livros. Monteiro Lobato, especialmente em “A Chave do Tamanho”, “Reforma da Natureza” e “Viagem ao Céu” mostrou como o mundo natural e o universo podem ser formidáveis. É uma boa ideia ler os livros com seus filhos de quatro a dez anos.
+
+Quando forem ao parque, tirem fotos! Vai valer a pena mais tarde. E se você quiser, mande para a gente, e publicamos aqui. Envie para gabrielmsalomao@gmail.com contanto como foi o passeio e o que vocês viram de interessante.
+
+Bom passeio!

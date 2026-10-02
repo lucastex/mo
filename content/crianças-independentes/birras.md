@@ -1,0 +1,13 @@
+# BIRRAS
+
+**Birras: não é das palavras que mais ouvem por parte dos pais de crianças pequenas?**
+
+Há uma frase que resume esta ideia: "necessidades ditam comportamentos". É talvez a maior descoberta de Montessori. Necessidades conduzem a comportamentos - aqui e em qualquer lugar do mundo. Interiorizemos isto, antes de avançarmos. Lembremo-nos agora da quantidade de vezes em que pensámos ou dissemos: "o meu filho só quer atirar objetos para o chão". Alguns pais vão mais longe "é só para provocar" (sim, provavelmente a maioria das pessoas que conhecemos atribui sentimentos negativos, que as crianças nem sequer sabem ter, aos próprios filhos). Voltemos à frase anterior: "Necessidades ditam comportamentos". Queridos pais, o vosso bebé não quer atirar tudo para o chão, muito menos vos quer provocar e colocar à prova.
+
+***O vosso bebé PRECISA de atirar cada um daqueles objetos que alcança para o chão, PRECISA de os sentir, de treinar o movimento de os lançar, de perceber o som que fazem ao bater no chão, o tempo que demoram a lá chegar, PRECISA de ganhar noções de distância, PRECISA até de entender o impacto que tudo aquilo tem sobre quem o rodeia!***
+
+***Não há segundas intenções, eles não sabem o que isso significa, isso está nas nossas cabeças, não nas deles!***
+
+Dei este exemplo, mas poderia dar muitos outros... subir e descer o mesmo degrau na rua, tirar e pôr uma bola numa caixa vezes sem conta, querer mexer a comida que estamos a confeccionar, querer colocar uma camisola sem ajuda... Havendo esta consciência de que, cada querer do nosso filho pequeno, representa nada mais, nada menos, do que uma NECESSIDADE que ele tem, facilmente nos apercebemos da quantidade de vezes em que lhe criámos barreiras à aprendizagem, ao desenvolvimento. E o seu guia interior, a força que biologicamente o move rumo à independência, rumo à sobrevivência, não o deixa aceitar isso! Resultam daí sentimentos de desespero e revolta, vulgo birras.
+
+Birras não são mais do que necessidades incompreendidas. E, pais, somos nós quem não está a entender e saber agir e, pior, ao utilizarmos este termo negativo, retiramos das nossas costas uma responsabilidade que é nossa - atender às genuínas necessidades dos nossos filhos - para lhes passarmos a eles a CULPA daquele momento. Sei que custa mudarmos pensamentos e posturas que nos foram incutidas desde cedo, mas acredito que, uma vez que nos vemos no papel de educadores, queiramos dar um passo adiante e gerar seres humanos mais plenos, respeitados e livres para desenvolverem todo o seu potencial. Uma criança que vê barradas as suas necessidades, é uma criança que rapidamente as vai deixar de ter, não tendo subido esse degrau. É uma lacuna que ficará, para sempre, por preencher.

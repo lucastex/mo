@@ -1,0 +1,13 @@
+# Série Paz – Introdução
+
+Há cem anos começava a Primeira Grande Guerra. Uma catástrofe humana que assolou o globo e destruiu famílias, cidades, lares. Matou pais e mães, e matou filhos. Talvez seja possível adjetivá-la como *a primeira grande decepção da humanidade consigo mesma*. Depois da primeira guerra, com muito maior intensidade do que antes, se perguntou: *somos bons por natureza?*. A Segunda Grande Guerra impôs a errônea conclusão de que, fundamentalmente, somos egoístas, maus, e sedentos de poder. Montessori viveu as duas grandes guerras, mais a Guerra Civil Espanhola. Foi prisioneira política do governo britânico e teve seu filho perseguido pelo fascismo italiano. Sentiu, da pele para dentro, os horrores que podem brotar das violentas disputas políticas. Entretanto, ela conheceu, descobriu, desbravou *mares nunca antes navegados*. Montessori foi responsável por trazer à luz A Criança.
+
+A Criança deu a Montessori a certeza maior de que, fundamentalmente, não há semente má no humano. Permitindo à cientista e pedagoga italiana entrever também o único elemento comum a todas as civilizações, culturas e povos humanos. Podemos diferir em tudo: em crenças, estruturas sociais, formas de agir no mundo, história. Entretanto, temos universalmente em comum a Criança. Ela se desenvolve de forma semelhante, em todos os lugares do mundo, e se beneficia de práticas comuns, em qualquer cultura. Por isso, para Montessori, a Criança é a única possibilidade que temos para a Paz no mundo. Compreender a Criança é, para ela, compreender o que existe de fundamentalmente humano, e poder, a partir daí, construir a Paz global.
+
+Por isso, pelos cem anos da Primeira Guerra Mundial, defendemos um **ano de Paz**, um ano que possibilite a você construir em sua casa uma célula de Paz no mundo, e espalhar suas descobertas aos seus amigos, para que possamos dar mais um passo na direção da revolução pacífica que nossas crianças merecem ver acontecer. Assim, todos os meses, até dezembro, publicaremos um artigo que tratará da *Paz* de alguma maneira. Em alguns casos o viés será muito caseiro e familiar, em outros tocará na escola, e em alguns extrapolará paredes para tratar de relações sociais como um todo.
+
+Em algumas horas será publicado o primeiro texto: **Paz I – Fala Pacífica¹**. Esperamos que você nos acompanhe durante todo o nosso percurso, e nos conte sobre os resultados do que comentamos e sugerimos em sua casa ou em sua escola.
+
+\_\_\_\_
+
+¹Em nosso texto original, dizíamos “Fala e Silêncio”, entretanto achamos por bem dividir o texto em dois, para sermos mais diretos na informação e podermos abordar o silêncio, assunto extenso e importante, separadamente, mês que vem.

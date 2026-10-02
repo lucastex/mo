@@ -1,0 +1,21 @@
+# A liberdade e a autonomia, segundo o Método Montessori
+
+*\*Formada em Letras com Licenciatura Plena em Português, Inglês e Literatura. Atua desde 2008 na rede pública de educação do município de Cristal-RS. Pós-graduada em Direção, Supervisão e Orientação Escolar, Danielle é também estudante e aprendiz do Método Montessori*
+
+“Tudo o que somos foi feito pela criança, pela criança que fomos nos primeiros anos de nossas vidas. ” Maria Montessori
+
+Atualmente a educação é prejudicada pelos excessos. Ela é rica em métodos, propósitos e objetivos preestabelecidos pelos programas educacionais, porém peca diante de seu principal dever: a vida em si mesma. Ao pensarmos em educação para a vida, educação desde o nascimento, aparece uma nova visão do ensino: a filosofia montessoriana.
+
+Quando Montessori fala em “não ajudarmos uma criança em uma tarefa que ela acredita que pode fazer sozinha” surge aí a essência da educação montessoriana. A educação como ajuda à vida da criança, visando seu desenvolvimento psicológico, personalidade e potencialidades. Uma ajuda para formar um indivíduo livre, autônomo e normalizado, com papel na sociedade em constante evolução, capaz de adaptar-se diante de qualquer circunstância que se apresente em sua vida.
+
+A princípio, acredita-se que a palavra “liberdade” pode dar uma impressão ruim e representar conceitos negativos de desordem, má conduta ou ausência de restrições e interferências no ambiente escolar. Dessa forma surgem opiniões de que no método Montessori não existem regras e que cada criança pode fazer o que quiser.
+
+Um olhar respeitoso e intencional é necessário para ensinar as crianças a serem livres e capazes de escolher o que lhes faz bem e a crescer com uma sensação de liberdade dentro de si. Ter liberdade com regras claras e consistentes em um ambiente preparado, seguro e produtivo nada mais é do que criar limites saudáveis. É nesse ponto que a maioria das pessoas e pais, principalmente, confundem liberdade de escolha com não colocar limites às crianças. Liberdade de escolha cria a autonomia e essas juntas trazem envolvimento no aprendizado. Um aprendizado ativo que desperta interesses e paixões profundas e duradouras para serem pensadores independentes e cidadãos responsáveis no futuro.
+
+As crianças montessorianas desfrutam de uma liberdade de movimentos e escolhas, o que permite terem noção de responsabilidade ao tomarem decisões e entendem que algumas atitudes podem gerar consequências ruins e assim, aprendem também a reavaliar seus atos. Ao optar por aquilo que faz bem a elas, desenvolvem sua personalidade e despertam dentro de si o sentimento de liberdade.
+
+Em reuniões e entrevistas escolares, as famílias deixam bem claro o desejo de que a escola ensine a independência, mas em casa não trabalham autonomia nem deixam seus filhos serem independentes. A liberdade confunde-se com falta de limites e instala-se uma desordem mental na criança durante o processo da conquista da independência física e biológica.
+
+Liberdade de escolha não isenta os adultos de suas responsabilidades e de seu trabalho, pelo contrário, é preciso ajudar a criança a construir essa percepção do indivíduo livre e responsável. É nesse sentido que Montessori sempre defendia a “Liberdade com Responsabilidade”. De que forma propiciar isso às crianças? Respeitando o ritmo e o estilo de cada um em seu desenvolvimento de competências naturais, organizando um ambiente adequado, criando locais específicos para esse fim, ofertando espaços repletos de motivações e incentivando a exploração e a criação, além de ser acolhedor para desenvolver naturalmente a autonomia, que configura-se como oportunidade de crescimento e emancipação da criança e da coletividade.
+
+A educação para a vida é um terreno de encontro onde se pratica a liberdade, a autonomia, a democracia, a solidariedade e se promove o valor da paz. Ao oportunizar e desenvolver competências para a construção da paz surge a criança equilibrada, feita de valores importantes como o autocontrole, a responsabilidade pessoal e ética. Surge assim a verdadeira educação que Montessori mencionou em seus estudos “a educação que vai ao encontro da criança para realizar a sua libertação”. Afinal, cada criança é única e necessita de liberdade para crescer e explorar o mundo por si mesmo.“

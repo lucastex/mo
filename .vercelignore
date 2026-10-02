@@ -1,0 +1,7 @@
+# Nunca enviar segredos locais nem artefatos de build para o Vercel.
+.env
+.env*.local
+node_modules/
+.eve/
+.output/
+.vercel/

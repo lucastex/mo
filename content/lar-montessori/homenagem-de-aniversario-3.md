@@ -1,0 +1,19 @@
+# Homenagem de Aniversário
+
+Tim Selding, em seu sempre útil “How to Raise an Amazing Child the Montessori Way” diz que, para ele, Montessori é um estilo de vida, um jeito de viver, muito mais que um método educacional.
+
+Tim Seldin está certo. O defendo com a humildade de um iniciante que apoia um mestre, mas com a autoridade do iniciante que sabe o que está dizendo. Eu vivo Montessori há 18 anos. Aqui, quero contar o que é Montessori na minha vida, como tudo começou e porque esta visão de mundo continua presente em mim até hoje. Esta é minha homenagem para Maria Montessori no dia de seu aniversário, contar a importância que ela tem na vida de um jovem que vive 100 anos depois dela.
+
+Quando eu tinha 2,5 anos, minha mãe e eu procurávamos uma escola para me matricular. Visitamos várias, conhecemos salas bonitas e feias, professoras simpáticas e tias doces, escolas grandes e pequenas, jardins de infância agradáveis e não tão agradáveis assim. E visitamos a Prima – Escola Montessori de São Paulo. Ficava perto de casa e era bem falada na região. Uma tia minha é pedagoga e disse que o método era interessante para crianças, mas que ela não conhecia muito bem. Disse que valia a pena olhar.
+
+Em todas as escolas, antes da Prima, a diretora ou a coordenadora conversou solicitamente com a minha mãe, enquanto eu, sentado no colo dela, pedia para ir embora. Nesta casa das crianças que é a Prima, chegamos e a diretora falou primeiro comigo. Estendeu um tapete no chão, me deu ma Cesta dos Tesouros (veja o post logo antes deste) e mostrou-me alguns objetos. Eu, como é de se esperar, concentrei-me nos objetos e lá fiquei por toda a reunião, sentado, silencioso, trabalhando, enquanto minha mãe e a diretora conversavam. Minha mãe, durante a conversa, disse à diretora: “Esta é a primeira escola que pensa no meu filho. Vou deixá-lo aqui”. E eu fiquei lá da segunda-feira seguinte até os meus quatorze anos. Depois eu saí, porque não havia colegial, e agora voltei, como professor assistente, com muito gosto.
+
+Estou hoje com quase vinte anos e vivi Montessori pelos primeiros 14 e nos últimos seis. Como, nos últimos seis, se não estava dentro da escola?
+
+Montessori não depende só da escola, e não se trata só de escola. Trata-se de pensar pela Paz, acima de tudo. Trata-se de desejar a paz do mundo e a do homem, de desejar a paz para a humanidade, mas também de promover a paz entre si e os vizinhos, entre si e os amigos. Trata-se de perceber que onde há comportamentos humanos reprováveis não pode haver paz. E se trata de fazer o possível para reestabelecer a paz onde ela não se mostra presente, dentro e fora de nós.
+
+Montessori trata da Liberdade. Segundo Maria Montessori, da liberdade que nasce dentro de nós, que é construída dentro de nós. É a liberdade de pensamento e de ação, a de seguir pelos caminhos que julgamos melhores e a de discordar do que quisermos, a de criar o que quisermos, a de perseguir o que quisermos, e a de (esta é importante) querer o que quisermos. Na maior parte das vezes, somos escravos de nossas vontades – a liberdade defendida e construída por Montessori (a muher e o método) é a que liberta das vontades e que permite ao homem escolher o que ele quer escolher, e não escolher o que o desejo dele deseja.
+
+É difícil entender Montessori, a menos que você sinta a escola, permaneça nela por algum tempo e converse com as crianças pequenas educadas lá. Quando você entender as crianças, a alegria, a liberdade e a disciplina adorável que elas cultivam em si mesmas, no ritmo delas e no espaço delas, então será possível compreender Montessori e o respeito pelo ser humano presente em qualquer educando montessoriano.
+
+Fica o convite para quem quiser conhecer mais desta possibilidade bela de educação. Estou sempre e a todo momento disponível para isso, com teses de doutorado, textos filosóficos, poemas e imagens. Espero que você venha a conhecer mais!

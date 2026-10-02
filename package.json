@@ -1,0 +1,63 @@
+{
+  "name": "larmontessori",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.24.0",
+  "scripts": {
+    "knowledge": "node scripts/build-knowledge.mjs",
+    "dev": "node scripts/build-knowledge.mjs && eve dev",
+    "build": "node scripts/build-knowledge.mjs && eve build",
+    "start": "eve start",
+    "dev:web": "next dev apps/web",
+    "build:web": "next build apps/web",
+    "dev:eve": "eve dev",
+    "dev:all": "vercel dev --local",
+    "dev:chat": "node scripts/build-knowledge.mjs && concurrently -k -n eve,web -c magenta,cyan \"eve dev --no-ui --no-default-extensions\" \"next dev apps/web --port 3000\""
+  },
+  "dependencies": {
+    "@chat-adapter/state-memory": "^4.41.1",
+    "@orama/orama": "^3.1.18",
+    "@orama/stemmers": "^3.1.18",
+    "@orama/stopwords": "^3.1.18",
+    "@radix-ui/react-use-controllable-state": "1.2.2",
+    "@shikijs/core": "3.23.0",
+    "@shikijs/engine-javascript": "3.23.0",
+    "@shikijs/engine-oniguruma": "3.23.0",
+    "@streamdown/cjk": "1.0.3",
+    "@streamdown/code": "1.1.1",
+    "@streamdown/math": "1.0.2",
+    "@streamdown/mermaid": "1.0.2",
+    "@tailwindcss/postcss": "4.3.0",
+    "@vercel/connect": "2.2.0",
+    "@zernio/chat-sdk-adapter": "^0.5.1",
+    "ai": "^7.0.105",
+    "chat": "^4.41.1",
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "cmdk": "1.1.1",
+    "eve": "^0.70.0",
+    "lucide-react": "1.16.0",
+    "motion": "12.40.0",
+    "nanoid": "5.1.11",
+    "next": "16.3.6",
+    "radix-ui": "1.4.3",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "shiki": "3.23.0",
+    "streamdown": "2.5.0",
+    "tailwind-merge": "3.6.0",
+    "tailwindcss": "4.3.0",
+    "use-stick-to-bottom": "1.1.4",
+    "zod": "4.5.4"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "@types/react": "19.2.15",
+    "@types/react-dom": "19.2.3",
+    "concurrently": "^10.0.5",
+    "typescript": "6.0.3"
+  }
+}

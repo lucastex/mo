@@ -1,0 +1,25 @@
+# O que acontece em Montessori
+
+Gabriel Garcia Márquez, Nobel de Literatura e autor de Cem Anos de Solidão e Amor nos Tempos do Cólera, diz em sua autobiografia, Viver para Contar: “Não creio que haja um método melhor que o montessoriano para sensibilizar as crianças sobre as belezas do mundo e para despertar sua curiosidade para os segredos da vida”.
+
+Além de Márquez, o método Montessori conta com outros ex-alunos interessantes: Larry Page e Sergey Brin, fundadores do Google, são seus representantes mais conhecidos. No entanto, figuram entre outros os criadores da Amazon e da Wikipedia. Recentemente, um amigo me disse: Puxa, a Internet não foi inventada por um montessoriano, mas tudo o que usamos nela foi.
+
+De fato, à exceção do Facebook, os grandes serviços virtuais de hoje são fruto de montessorianos: Google, Google Maps, Gmail, YouTube, Vimeo, Wikipedia, Amazon. O iPod, o iPad e o iPhone não são, mas seu criador, Steve Jobs, [ajudou pessoalmente](http://www.siliconprairienews.com/2012/06/encouraged-by-jobs-couple-spreads-montessori-mission-through-apps) na criação de aplicativos montessorianos para os três aparelhos, apoiando o casal que teve a ideia de criá-los e estimulando-os a ir em frente. Os aplicativos montessorianos, logo em seguida, figuravam entre os melhores da App Store.
+
+Sigmund Freud teria dito a Montessori que “Se todas as crianças fossem às suas escolas, os divãs dos psicanalistas estariam vazios”, e Anna Freud, filha do psicanalista, tornou-se professora montessoriana. Mahatma Gandhi apoiava Montessori e a irmã do atual Dalai Lama, Jetsun Pema, dirige uma escola montessoriana.
+
+Pessoas menos distantes de nós, como Severn Cullis-Suzuky, a menina de 13 anos que surpreendeu a todos na ECO 92 e que hoje figura em um dos vídeos mais vistos do YouTube, também estudou em uma escola Montessori, e começou com suas amigas, aos nove anos de idade, uma organização para a proteção do meio ambiente.
+
+Ainda mais perto de nós, Ivan Lavander, meu amigo e ex-aluno da Prima-Escola Montessori de São Paulo, [descobriu, aos dezessete anos de idade, antes de iniciar a graduação, um antibiótico nos ovos da aranha armadeira](http://asboasnovas.com/biosfera/jovem_de_17_anos_descobre_antibiotico). Isto lhe rendeu quatro primeiras colocações na Feira Brasileira de Ciências e Engenharia, realizada na Escoa Politécnica da USP, em março de 2009. Ivan, em seguida, recebeu a segunda colocação na Feira Internacional de Ciências e Tecnologia (Intel Isef), que aconteceu em Nevada, nos Estados Unidos, em 2009 – *Foi a premiação mais alta concedida a um estudante brasileiro no evento americano.*
+
+Ainda assim, mesmo com todas essas figuras impressionantes e tantos feitos e apoiadores relacionados ao método, Maria Montessori insistia que não era ela que fazia as coisas. Seu método não tornava as crianças melhores. Até hoje, não torna. Montessori, [ao contrário do que se pensa](http://blogs.wsj.com/ideas-market/2011/04/05/the-montessori-mafia/), não cria gênios. Montessori os deixa agir.
+
+A doutora dizia com frequência: “aponto para as crianças, e as pessoas olham para o meu dedo”. Tudo o que fazemos em Montessori é remover obstáculos e, em um ambiente preparado com adultos preparados, permitir que as crianças se desenvolvam o máximo possível na direção em que sua inteligência as conduzir. Brin, Márquez, Suzuki e Ivan não chegaram onde chegaram porque Montessori os fez geniais. O que aconteceu foi que eles começaram a agir e ninguém os impediu.
+
+Nas escolas montessorianas não existem notas de 0 a 10. E isso tem um motivo bem claro: dar uma nota numérica é estabelecer um mínimo e estabelecer um máximo, de forma um tanto quanto arbitrária. Por mais que o mínimo precise ser estabelecido para se obedecer a parâmetros legais, o máximo não o necessita. Quando se tem uma nota 10, o máximo que se pode atingir é aquilo que o professor espera – não é possível surpreendê-lo. Em Montessori, precisa ser.
+
+O que acontece em Montessori é que damos toda a pista de decolagem para a criança: tiramos tudo de seu caminho, lhe damos as orientações necessárias com exatidão e objetividade, colocamos limites claros, precisos, exatamente onde eles precisam existir e prevenimos todo tipo de acidente e gastos supérfluos de combustível. Aí, em seguida, esperamos a criança decolar.
+
+Acontece o inevitável: as crianças decolam. E também inevitavelmente todas são felizes. Algumas crianças são um 14-Bis, outras são um Boing 747, outras ainda são aviões-caça, e há aquelas que são aviões comuns. Nós não comparamos um Boing com um caça, eles não são o mesmo avião, é impossível dizer que um seja melhor que o outro: eles são diferentes. Assim, todas as crianças podem ser felizes atingindo o **seu** máximo, e não um máximo imposto pelo controlador de vôo, que por sua vez não ajuda a guiar o avião, somente o orienta pelo melhor caminho.
+
+Há dias em que as crianças não querem voar muito alto, e alguns em que desejam testar-se ao máximo. Essa variedade é possível, é observada e é respeitada. Acima de tudo, a criança é compreendida. É isto o que acontece em Montessori.

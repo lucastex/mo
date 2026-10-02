@@ -1,0 +1,9 @@
+# Conexão da criança com o Meio Ambiente
+
+A ONU, com objetivo de sensibilizar o mundo sobre preservação ambiental, estabeleceu o dia 5 de junho como Dia do Meio Ambiente, e o tema Mundial do Dia do Meio Ambiente deste ano é a **Restauração de ecossistemas**. A Organização das Nações Unidas lançará, este ano no Paquistão, a década das **Nações Unidas da Restauração de Ecossistemas**. A Restauração do ecossistema significa auxiliar a recuperação de áreas que foram degradadas ou destruídas e conservar os ecossistemas que estão intactos.
+
+A Restauração pode acontecer de várias maneiras, como com o plantio de árvores, restauração de jardins, limpeza de rios e costas, conservação de áreas, e as iniciativas de restauração podem ser feitas por qualquer pessoa ou instituição. É um convite para refletir sobre as causas da degradação e os impactos que nosso estilo de vida causa na natureza.
+
+Quais ações podemos começar hoje para mudanças positivas no planeta? Para responder essa pergunta é importante que as crianças possam estabelecer conexão e amor profundo pela natureza, e isso só é possível quando nos sentimos parte de todo um ecossistema, parte de uma natureza dinâmica e viva.
+
+Na metodologia Montessori, preservamos a profunda conexão da criança com a natureza. O respeito pela vida faz parte do currículo, é a educação cósmica que conduz as crianças a entender que tudo está conectado e o fascínio com a natureza. As crianças cultivam plantas, cuidam dos animais, aprendem sobre a mágica do nascer de uma flor, ou de uma lagarta ao virar uma borboleta, cultivamos a paixão pela natureza por meio da relação íntima, subindo em árvores, pegando fruta no pé, aprendendo nomes científicos do que nos rodeia, sentindo as folhas, sentindo a grama, ouvindo o som dos animais, segurando uma pena ou vendo um inseto voar.

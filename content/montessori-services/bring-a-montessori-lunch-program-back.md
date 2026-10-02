@@ -1,0 +1,63 @@
+# Bring a Montessori Lunch Program Back to School
+
+*"There is no limit to the equipment of the 'Children's Houses' because the children themselves do everything. They sweep the rooms, dust and wash the furniture, polish the brasses, lay and clear away the table, wash up, sweep and roll up the rugs, wash a few little clothes, and cook eggs."*
+—Maria Montessori, *Dr. Montessori's Own Handbook*
+
+What could be more meaningful to a young child's developing independence than mastering the skills required to meet a fundamental human need? Though the details of individual trainings and specific school structures may differ, teachers invariably set up their lunch programs to meet two key goals: fostering the children's independence and creating a relaxed setting for social interaction and teacher observation. It isn't always easy. It might even feel impossible! Yet it's almost always worth the effort.
+
+##### Elements of an ideal Montessori lunch program
+
+Every school, every classroom, and every group of children have unique needs. Which is to say that the ideal is not always an option. Fortunately, Montessori teachers tend to respond to real-world limitation by implementing every element they can, rather than giving up because a particular situation may be less than ideal. Working step-by-step to achieve the Montessori ideal over time is the hallmark of the best Montessori teachers!
+
+- **Children bring lunch from home**. In a perfect world, the child and parent worked together to prepare the child's lunch. Ideally, it is packed with small portions of nutritious foods that appeal to the child, in containers the child can manipulate independently. Preparing lunch is a parent education topic your parents will be grateful for!
+- **A napkin or placemat defines each child's space**. As with work rugs and activity mats, a neatly defined space for each child fosters respect for others and assures children their work (including lunch!) will be undisturbed. When every parent is on board, children may bring their own napkins. If not, consider classroom-provided napkins - a great opportunity to integrate Practical Life (napkin-folding and laundering) into the lunch program!
+- **Everyone is ready before any of the children begin**. A blessing before the meal is an ideal way to mark the moment. If your parents prefer a non-denominational "grace, " young children love this one: "Earth that gives to us our food; sun that makes it ripe and good. Dearest Earth and dearest sun, we thank you now for all you've done!...Bon appetit!"
+- **Children and teachers dine together**. The importance of this unique opportunity to model Grace & Courtesy skills and social conversation for the children cannot be overstated. Further, the relaxed setting is perfect for observation, vocabulary-building, and inspiring children to research and answer their own food-related question ("Let's read the pumpkin book later today. It can tell us how they grow...")
+- **There is enough time**. One of the worst aspects of a cafeteria-style lunch is the limited time children have to enjoy - and truly experience - their meals. The pressure to wolf down one's food before the bell rings can encourage children to develop eating habits they will have to un-learn as adults. One of the best aspects of a Montessori-style lunch is a relaxed atmosphere that allows each child to eat at his own pace.
+- **Children clean up**. Ideally, lunch clean-up is treated as a Practical Life activity: supplies are available and ready for children to use. If your situation is less than ideal, learn what's possible and run with it - even in a cafeteria-style setting, children may be allowed to crumb their individual placemats or take turns wiping their table.
+
+##### Lunch Matters
+
+Of course, there are dozens of reasons why lunch matters. Should you find yourself in the position of explaining the benefits of a Montessori lunch program, the hardest part may be distilling all you've learned in your training, your research, and your hours in the classroom into brief talking points that get to the crux of the issues.
+
+Brevity is especially important for conversations with parents, and when teachers looking to improve their lunch programs (or just get one started!) must convince higher-ups that the results of a Montessori-style lunch program are worth the effort. These points will get you started; supplement them with anecdotes drawn from your own experience whenever you can and you'll make a compelling case.
+
+1. **Independence**: Every element of an ideal Montessori lunch program is designed to support the children's developing self-reliance. Simply put, children eat several times a day. Preparing, serving and cleaning up lunch reinforce the practical, real-world skills Montessori programs are designed to develop.
+2. **Continuity**: A lunch served and cleared by the children provides seamless continuity with classroom Practical Life activities, whereas a lunch served and cleared by adults is simply out of synch. Mixed messages are confusing (even for adults!). Continuity at the lunch table supports and enhances the goals of the entire program.
+3. **Grace & Courtesy**: Hearing a young child say to a friend, "Would you like to join me?" as he politely motions to the snack table is a delight that never grows old. After lunch, children carefully tuck in their chairs, a practice that will stay with them for life. There is simply no better opportunity for children to hear and say polite words and phrases than the lunch and snack table. "May I pour you a glass of water?" "Yes, please." "Thank you." "You're welcome."
+4. **Socialization**: When the children dine together in a relaxed setting, they have an opportunity to engage in conversations with each other AND they have a ready-made topic of conversation: food! Teachers at the table have an opportunity to model asking appropriate questions ("I've never seen fruit like that. What is it called?") and giving appropriate responses ("It's called cherimoya. Let's ask your mom if she can find one at the grocery for you.")
+5. **Observation**: Happy children enjoying a Montessori-style lunch offer teachers a superb chance to evaluate how children are extending their Practical Life skills to a real-world setting. Teachers can't follow children home to observe! Observation allows teachers to identify a child's individual needs - and provide for them! Is she having trouble pouring? She may need more access to pouring activities or an individual presentation. Does he break the crackers whenever he tries to spread them with peanut butter? He may need more opportunities to hone his fine motor skills.
+6. **Teachable Moments**: Conversations about food are chock full of language opportunities! Some ideas include naming fruits and vegetables - children love saying words like jicama, edamame, pomegranate, and kiwi. You might also talk about the shapes of the containers to reinforce what the children are learning in Sensorial. Hard-boiled eggs are *ovoid*. Blueberries are *spheres*. Many containers are *cylinders*.
+
+##### Educating & involving parents
+
+You may find that bringing snack for the whole class is a perfect first step to getting parents on board with your lunch program. Sometimes, it's easier to accept specific direction on behalf of the entire classroom than on behalf of one's own child. Preparing snack for the class gives parents a chance to learn key concepts and potentially extend them to bag lunches without further prompting.
+
+If parents seem receptive, start your rotating snack schedule with a meeting or hand-out that explains why snacks must be prepared just so. Let parents know exactly what the children need and why! Parents who are eager to help out (and even parents who aren't so eager) are usually happy to meet the classroom's needs, provided they know what they are.
+
+The bag lunch today's parents brought to school as children may have nothing in common with the Montessori-style bag lunch you'd like to see at the table. When you notice the majority of your children noshing on giant pre-made sandwiches and throwing away enough half-eaten fruit to feed a small country, it's time for some parent education. As always, respect is the key to convincing parents there is a better way.
+
+Along with the obvious (food allergies or a vegan diet), there are as many rationales for how parents pack lunch as there are parents, all of them valid. No matter how aghast you might be when a child brings a bologna-and-white-bread sandwich, jello and gummy bears every day, try to separate the two related topics of style (how the lunch is packed) and content (nutrition) for the purposes of parent education.
+
+Your suggestion to cut the bologna sandwich in quarters and package it in a reusable container may get a warmer reception than a request to replace it with nuts and a fruit salad! Focusing first on the style gets parents thinking about lunch as an important part of the child's day - when parents see how well children respond, they are likely to be more receptive when you suggest more dramatic changes.
+
+Active volunteering in the classroom can be a touchy subject. Teachers who have experienced the disruption created by an overly loud or frankly oblivious volunteer tend to involve all parents in out-of-class support projects instead. Nonetheless, the parent who cares deeply about your lunch program (and expresses that with an ongoing desire to volunteer at lunch) may be your strongest advocate. Just as your younger children look to their older peers for guidance, so do parents look to each other.
+
+The key to tapping overall parent enthusiasm and support may be allowing that one passionate parent to help - and training her to do it appropriately. A "lunch volunteer" training structured with multiple sessions, an observation requirement and lots of recommended reading will ensure that only the seriously committed parent will take it on. The time it takes to cultivate one interested parent has the potential to move the whole program forward in the best Montessori fashion - peer-to-peer!
+
+##### Integrating the school garden
+
+Montessori urged adults to provide children with their own little plot of land to cultivate and, happily, many schools have done just that. Of course, a school garden satisfies the young child's urge to care for other living things and gives them a context for hands-on science exploration. When the garden and the lunch program work together, however, the children's experience is enriched ten-fold.
+
+Vegetables and fruit the children have planted, nurtured, harvested, prepared, served and eaten are a natural topic of conversation at the lunch table. Children who wouldn't dream of eating a salad are suddenly eager to nibble on "the lettuce from our garden." With a compost program in place, the closed loop provides a living model of how nature transforms waste into new plants to sustain us.
+
+Food preparation activities are a favorite where school gardens grow! Harvesting the food first brings a powerful new dimension (and a natural point of interest) to slicing and serving activities. A thriving garden can supply fresh, nutritious fruits and vegetables for a school-made lunch program - and children with an eager interest in food preparation activities. You might start small with a simple salad bar. Along with harvesting, carrying, rinsing, scrubbing, slicing or chopping, and peeling, a salad bar allows children to serve, eat, clean up, and compost food they've nurtured themselves.
+
+Healthy foods are a hallmark of Montessori philosophy. In fact, Montessori was one of the first educators to recognize the connection between nutrition and the developing brain. An excellent explanation of how Montessori's observations are supported by contemporary scientific understanding of brain development, by Montessorian and children's nutritionist Jan Katzen-Luchenta, AMI, illustrates the link between nutrition and learning readiness.
+
+The author echoes Dr. Montessori when she reminds adults that "Collectively, we must continue to take a serious interest in the child's 'inner prepared environment,' the nutritional playing field we can't see but whose impact can surely be measured through observation and investigation."
+
+*"If teaching is to be effective with young children, it must assist them to advance on the way to independence.*
+—Maria Montessori, *The Discovery of the Child*
+
+Lunch is a daily opportunity to support your children on their path of discovery. The children's joyful confidence and relaxed pleasure are what observers in a Montessori classroom notice at lunch. And that, perhaps, is its own reward.
